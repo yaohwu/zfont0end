@@ -14,13 +14,10 @@
   "author": "yaohwu",
   "license": "MIT",
   "devDependencies": {
+    "casperjs": "^1.1.4",
     "chai": "^4.1.2",
-    "karma": "^2.0.3",
     "mocha": "^5.2.0",
     "qunit": "^2.6.1"
   },
-  "dependencies": {
-    "casperjs": "^1.1.4",
-    "requirejs": "^2.3.5"
-  }
+  "dependencies": {}
 }
